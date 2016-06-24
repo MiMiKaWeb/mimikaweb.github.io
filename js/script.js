@@ -10,7 +10,7 @@ $(document).ready( function () {
    });
     
        $('#nav_creation').click(function() {
-     $('body').animate({scrollTop: $("#creation").offset().top}, 'slow'      );
+     $('body').animate({scrollTop: $("#venez").offset().top}, 'slow'      );
    });
     
     $('#nav_contact').click(function() {
