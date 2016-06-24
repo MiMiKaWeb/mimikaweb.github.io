@@ -124,10 +124,6 @@ a:hover{
   margin-top:-40px;
 }/*équilibrage de la marge de l'ancre*/
 
-#creation {
-  padding-top:80px;
-  margin-top:-80px;
-}/*équilibrage de la marge de l'ancre*/
 /*body*/
 body{
     background-color:white;
@@ -163,8 +159,14 @@ body{
 }
 
 
-
 /*plan japan*/
+
+#venez{
+    padding-top:70px;
+    margin-top:-70px;
+
+}/*équilibrage de la marge de l'ancre*/
+
 #plan{
     width: 430px;
 	height: 400px;
