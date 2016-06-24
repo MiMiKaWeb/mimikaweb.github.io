@@ -6,7 +6,7 @@ $(document).ready( function () {
    });
     
     $('#nav_about').click(function() {
-     $('#contenue').animate({scrollTop: $("#about").offset().top}, 'slow'      );
+     $('body').animate({scrollTop: $("#about").offset().top}, 'slow'      );
    });
     
        $('#nav_creation').click(function() {
