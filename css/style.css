@@ -169,8 +169,9 @@ body{
 
 #plan{
     width: 430px;
-	height: 400px;
+    height: 400px;
     margin-right:5px;
+    float:none;
     
 }
 #gmap{
