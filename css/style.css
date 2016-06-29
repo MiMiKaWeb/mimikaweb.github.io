@@ -171,11 +171,12 @@ body{
     width: 430px;
 	height: 400px;
     margin-right:5px;
-    float:left;
+    
 }
 #gmap{
     margin-bottom: 50px;
     margin-right:5px;
+    float:left;
 }
 
 
